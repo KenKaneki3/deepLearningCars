@@ -7,7 +7,7 @@ A physics-based 2D car simulation where neural networks learn to drive autonomou
 
 ![Track Generation](tiles/track-generation.gif)
 
-![Simulation Demo](Animationcars.gif)
+![Simulation Demo](tiles/Animationcars.gif)
 
 ---
 
@@ -49,7 +49,7 @@ The pre-trained agent `x3` was trained for **~170 generations**. In a population
 ## Setup
 
 ```bash
-git clone https://github.com/KenKaneki3/DeepLearningCars.git
+git clone https://github.com/KenKaneki3/deepLearningCars.git
 cd DeepLearningCars
 pip install -r requirements.txt
 py -3.10 __main__.py
