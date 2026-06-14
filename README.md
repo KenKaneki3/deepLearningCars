@@ -65,7 +65,7 @@ On startup, a dialog will ask if you want to load a saved agent. Select **Yes** 
 |------|-------------|-------------|
 | x1   | ~50         | Basic navigation |
 | x2   | ~100        | Consistent lap completion |
-| x3   | ~170        | 85% survival rate (17/20 cars) |
+| x3   | ~375        | 90% survival rate (17/20 cars) |
 
 ---
 
